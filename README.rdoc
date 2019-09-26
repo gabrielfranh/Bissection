@@ -1,0 +1,13 @@
+This program was made by Gabriel F. Habermann, it was the firsta Numerical
+Calculus project, the goal of the project was create the algorithm of the
+Bissection method.
+
+Talking about the language that I used, I picked Python because I consider
+a very intuitive language, it's simple to understand the syntax, and in the
+same time, it's very powerful.
+
+For comments, bugs, or any type of contact:
+	Email: gabrielfranh@gmail.com
+
+Thank you, enjoy it.
+
