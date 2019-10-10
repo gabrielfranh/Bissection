@@ -1,4 +1,4 @@
-This program was made by Gabriel F. Habermann, it was the firsta Numerical
+This program was made by Gabriel F. Habermann, it was the first Numerical
 Calculus project, the goal of the project was create the algorithm of the
 Bissection method.
 
