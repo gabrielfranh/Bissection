@@ -7,7 +7,7 @@ import math
 
 def funcao (inicial):
 
-   return pow(inicial,3) - (9 * inicial) + 3
+   return pow(inicial,3) - (9 * inicial) + 3    # Definindo a função como x^3 - 9x + 3
 
 a = float(input("Começo do intervalo: "))
 
